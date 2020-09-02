@@ -35,11 +35,12 @@ a:hover {
 button {
     cursor: pointer;
     outline: none;
-    width: 150px;
+    width: 175px;
     height: 60px;
     font-family: 'Montserrat', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     letter-spacing: 5px;
+    text-transform: uppercase;
     color: #31413c;
     background: linear-gradient(to top, #d8a038, #f3cc84);
     border: 2px solid #d1972b;
